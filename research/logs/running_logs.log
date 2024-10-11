@@ -1,0 +1,4 @@
+[2024-10-11 18:45:46,257: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-11 18:45:46,277: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-11 18:45:46,284: INFO: common: created directory at: artifacts]
+[2024-10-11 18:45:46,284: INFO: common: created directory at: artifacts/prepare_base_model]
